@@ -45,7 +45,7 @@ Instead of copying random files and hoping for the best, you can give your AI as
 ### Installation
 
 ```bash
-composer require lumiio/cascadedocs
+composer require shawnveltman/cascadedocs
 ```
 
 ### Setup
